@@ -3,7 +3,7 @@ FD-EyeCandy: FlashDevelop Theme [AS3]
 
 Eyecandy for your FlashDevelop
 
-![Alt text](https://raw.github.com/reversiblean/flashdevelop-theme/master/preview.png "FlashDevelop Theme")
+![Alt text](https://raw.github.com/reversiblean/flashdevelop-theme/master/preview.png "FlashDevelop Theme: Click for enlarged preview")
 
 Installtion Instructions
 ----------------------
