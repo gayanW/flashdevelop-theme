@@ -1,4 +1,4 @@
-FD-EyeCandy: FlashDevelop Theme [AS3]
+FD-EyeCandy: FlashDevelop Theme [AS3&Haxe]
 ==================
 
 Eyecandy for your FlashDevelop
